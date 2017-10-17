@@ -24,11 +24,16 @@ ul {
 	list-style-type: none;
 }
 
-a {
-	color: #2574A9;
+code {
+  color: #c7254e;
 }
 
-code {
+a {
+	text-decoration: none;
+  color: #c7254e;
+}
+
+a:visited {
   color: #c7254e;
 }
 
